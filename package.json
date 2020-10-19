@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Firsty try at Node.js",
+  "main": "Test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RautiainenMarco/JavaScript.git"
+  },
+  "author": "Marco Rautiainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RautiainenMarco/JavaScript/issues"
+  },
+  "homepage": "https://github.com/RautiainenMarco/JavaScript#readme"
+}
